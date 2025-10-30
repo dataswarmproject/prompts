@@ -1,8 +1,8 @@
 # AI Agents & Frameworks Directory (2025)
 
-**Curated by Dr. Ahmed Halloub**
+**Curator: Dr. Ahmed Halloub**
 
-> This comprehensive directory contains 50+ AI agent frameworks and autonomous agents organized by category. These frameworks enable building intelligent, autonomous systems that can reason, plan, and execute complex tasks. Last updated: October 2025
+This comprehensive directory contains 50+ AI agent frameworks and autonomous agents organized by category. These frameworks enable building intelligent, autonomous systems that can reason, plan, and execute complex tasks. Last updated: October 2025
 
 ---
 
@@ -672,14 +672,14 @@ agent.run("Research AI agents")
 
 ### Safety & Security
 
-✅ **Do**:
+**Do:**
 - Validate all agent outputs
 - Implement rate limiting
 - Use sandboxed execution
 - Monitor resource usage
 - Set clear boundaries
 
-❌ **Don't**:
+**Don't:**
 - Grant unlimited API access
 - Execute unverified code
 - Ignore error logs

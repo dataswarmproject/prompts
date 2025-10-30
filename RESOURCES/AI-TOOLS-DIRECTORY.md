@@ -1,8 +1,8 @@
 # Comprehensive AI Tools Directory (2025)
 
-**Curated by Dr. Ahmed Halloub**
+**Curator: Dr. Ahmed Halloub**
 
-> This comprehensive directory contains 300+ AI tools organized by category, compiled from leading AI tool directories including awesome-ai-tools, awesome-generative-ai, and other curated sources. Last updated: October 2025
+This comprehensive directory contains 300+ AI tools organized by category, compiled from leading AI tool directories. Last updated: October 2025
 
 ---
 
