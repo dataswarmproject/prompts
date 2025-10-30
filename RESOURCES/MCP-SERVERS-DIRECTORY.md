@@ -1,8 +1,8 @@
 # Comprehensive MCP Servers Directory (2025)
 
-**Curated by Dr. Ahmed Halloub**
+**Curator: Dr. Ahmed Halloub**
 
-> This comprehensive directory contains 100+ Model Context Protocol (MCP) servers organized by category. MCP servers extend AI capabilities through secure integrations with external tools and data sources. Last updated: October 2025
+This comprehensive directory contains 100+ Model Context Protocol (MCP) servers organized by category. MCP servers extend AI capabilities through secure integrations with external tools and data sources. Last updated: October 2025
 
 ---
 
@@ -502,34 +502,35 @@ MCP supports multiple transport mechanisms:
 
 ## Deployment Modes
 
-### Local Execution 🏠
+### Local Execution
 - Runs on your machine
 - Full file system access
 - Best for: Development, personal projects
 
-### Cloud-Based Services ☁️
+### Cloud-Based Services
 - Hosted servers
 - API-based access
 - Best for: Production, scalability
 
 ### Platform-Specific
-- **macOS** 🍎: Native macOS servers
-- **Windows** 🪟: Windows-compatible servers
-- **Linux** 🐧: Linux support (most common)
+- **macOS**: Native macOS servers
+- **Windows**: Windows-compatible servers
+- **Linux**: Linux support (most common)
 
 ---
 
 ## Best Practices
 
 ### Security
-✅ **Do**:
+
+**Do:**
 - Use environment variables for secrets
 - Implement rate limiting
 - Validate all inputs
 - Use least-privilege access
 - Audit server logs regularly
 
-❌ **Don't**:
+**Don't:**
 - Hardcode credentials
 - Grant unnecessary permissions
 - Skip input validation
