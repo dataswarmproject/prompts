@@ -55,6 +55,7 @@ Whether you're a developer, designer, marketer, researcher, or business professi
 │   ├── 📁 research/
 │   └── 📁 education/
 ├── 📁 tools/ (AI tools and integrations)
+│   ├── 📄 ai-tools-directory.md (300+ AI tools by category)
 │   ├── 📄 mcp-servers.md
 │   ├── 📄 cli-tools.md
 │   └── 📄 web-apps.md
@@ -114,6 +115,7 @@ Whether you're a developer, designer, marketer, researcher, or business professi
 - Based on research and practical experience with 600+ client projects
 
 ### 🛠️ Tools & Integrations
+- **300+ AI Tools Directory** - Comprehensive catalog organized by category
 - MCP (Model Context Protocol) servers
 - CLI tools for developers
 - Web applications and browser extensions
@@ -151,9 +153,10 @@ Whether you're a developer, designer, marketer, researcher, or business professi
 4. [Business Plan Creator](./prompts/business/planning.md)
 
 ### Top Tools
-1. [Claude Code](./tools/cli-tools.md#claude-code) - AI-powered development
-2. [MCP File System](./tools/mcp-servers.md#filesystem) - File operations
-3. [Browser Extension](./tools/web-apps.md#browser-tools) - Web integration
+1. [AI Tools Directory](./tools/ai-tools-directory.md) - 300+ AI tools organized by category
+2. [Claude Code](./tools/cli-tools.md#claude-code) - AI-powered development
+3. [MCP File System](./tools/mcp-servers.md#filesystem) - File operations
+4. [Browser Extension](./tools/web-apps.md#browser-tools) - Web integration
 
 ### Essential Guides
 1. [Prompt Engineering Mastery](./AI-BEST-PRACTICES.md#prompt-engineering)
