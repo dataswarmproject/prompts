@@ -14,6 +14,10 @@
 
   *500+ Tools | 200+ Prompts | 100+ MCP Servers | 50+ Agent Frameworks*
 
+  ---
+
+  **🌍 Languages**: [English](./README.md) | [العربية (Arabic)](./AR/README.md)
+
 </div>
 
 ---
