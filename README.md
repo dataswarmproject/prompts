@@ -47,6 +47,7 @@ Whether you're a developer, designer, marketer, researcher, or business professi
 ├── 📄 README.md (You are here)
 ├── 📄 AI-BEST-PRACTICES.md (Advanced AI usage best practices)
 ├── 📁 prompts/ (Comprehensive prompt library)
+│   ├── 📄 MASTER-PROMPTS-LIBRARY.md (200+ prompts)
 │   ├── 📁 software-development/
 │   ├── 📁 content-creation/
 │   ├── 📁 data-analysis/
@@ -56,14 +57,17 @@ Whether you're a developer, designer, marketer, researcher, or business professi
 │   └── 📁 education/
 ├── 📁 tools/ (AI tools and integrations)
 │   ├── 📄 ai-tools-directory.md (300+ AI tools by category)
+│   ├── 📄 mcp-servers-directory.md (100+ MCP servers)
 │   ├── 📄 mcp-servers.md
 │   ├── 📄 cli-tools.md
 │   └── 📄 web-apps.md
 ├── 📁 apis/ (API integrations and examples)
+│   ├── 📄 api-integration-guide.md (Comprehensive guide)
 │   ├── 📄 openai.md
 │   ├── 📄 anthropic.md
 │   └── 📄 other-providers.md
 ├── 📁 agents/ (AI agent architectures and solutions)
+│   ├── 📄 ai-agents-frameworks.md (50+ frameworks)
 │   ├── 📄 autonomous-agents.md
 │   ├── 📄 workflow-agents.md
 │   └── 📄 custom-agents.md
@@ -108,26 +112,31 @@ Whether you're a developer, designer, marketer, researcher, or business professi
 ## ✨ Key Features
 
 ### 🎯 Expert-Curated Prompt Library
-- 200+ professional-grade prompts
+- **200+ professional-grade prompts** from leading repositories
+- **System prompts** from ChatGPT, Claude, v0, Cursor, and more
 - Organized by profession and use case
 - Ready to use, easy to customize
 - Includes advanced prompting techniques from real-world applications
 - Based on research and practical experience with 600+ client projects
+- [Master Prompts Library](./prompts/MASTER-PROMPTS-LIBRARY.md) - Complete collection
 
 ### 🛠️ Tools & Integrations
-- **300+ AI Tools Directory** - Comprehensive catalog organized by category
-- MCP (Model Context Protocol) servers
+- **300+ AI Tools Directory** - [Complete catalog](./tools/ai-tools-directory.md) organized by 16 categories
+- **100+ MCP Servers** - [Comprehensive directory](./tools/mcp-servers-directory.md) for extending AI capabilities
+- MCP (Model Context Protocol) servers - Official and community
 - CLI tools for developers
 - Web applications and browser extensions
-- API integration examples
+- API integration examples and guides
 - Enterprise-grade tool recommendations
 
 ### 🤖 AI Agents & Solutions
-- Pre-built agent architectures
-- Workflow automation examples
-- Custom agent templates
-- Multi-agent systems
-- Production-ready patterns
+- **50+ AI Agent Frameworks** - [Complete directory](./agents/ai-agents-frameworks.md) with examples
+- Pre-built agent architectures (AutoGPT, BabyAGI, CrewAI, MetaGPT)
+- Multi-agent systems and collaboration patterns
+- Coding agents and development tools
+- Research and analysis agents
+- Agent building platforms (Flowise, LangChain)
+- Production-ready patterns and best practices
 
 ### 📚 Best Practices
 - Advanced prompting techniques
@@ -152,11 +161,13 @@ Whether you're a developer, designer, marketer, researcher, or business professi
 3. [Data Analysis Helper](./prompts/data-analysis/analysis.md)
 4. [Business Plan Creator](./prompts/business/planning.md)
 
-### Top Tools
-1. [AI Tools Directory](./tools/ai-tools-directory.md) - 300+ AI tools organized by category
-2. [Claude Code](./tools/cli-tools.md#claude-code) - AI-powered development
-3. [MCP File System](./tools/mcp-servers.md#filesystem) - File operations
-4. [Browser Extension](./tools/web-apps.md#browser-tools) - Web integration
+### Top Resources
+1. **[AI Tools Directory](./tools/ai-tools-directory.md)** - 300+ AI tools organized by 16 categories
+2. **[Master Prompts Library](./prompts/MASTER-PROMPTS-LIBRARY.md)** - 200+ professional prompts
+3. **[MCP Servers Directory](./tools/mcp-servers-directory.md)** - 100+ MCP servers for AI integration
+4. **[AI Agents Frameworks](./agents/ai-agents-frameworks.md)** - 50+ agent frameworks
+5. **[API Integration Guide](./apis/api-integration-guide.md)** - Comprehensive API examples
+6. [Claude Code](./tools/cli-tools.md#claude-code) - AI-powered development
 
 ### Essential Guides
 1. [Prompt Engineering Mastery](./AI-BEST-PRACTICES.md#prompt-engineering)
@@ -234,6 +245,13 @@ Special thanks to the AI community for continuous innovation and knowledge shari
 
 [![Star this repo](https://img.shields.io/github/stars/dataswarmproject/prompts?style=social)](https://github.com/dataswarmproject/prompts)
 
-**Last Updated**: 2025-10-28
+**Last Updated**: 2025-10-30
+
+**New in This Release**:
+- 📚 Master Prompts Library with 200+ professional prompts
+- 🔧 100+ MCP Servers comprehensive directory
+- 🤖 50+ AI Agent Frameworks with examples
+- 📡 Comprehensive API Integration Guide
+- 🎯 All compiled from leading open-source repositories
 
 </div>
