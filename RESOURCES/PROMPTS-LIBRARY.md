@@ -1,8 +1,8 @@
 # Master Prompts Library (2025)
 
-**Curated by Dr. Ahmed Halloub**
+**Curator: Dr. Ahmed Halloub**
 
-> This comprehensive library contains 200+ professional-grade prompts for AI models including ChatGPT, Claude, Gemini, and others. Compiled from leading prompt engineering repositories and curated for maximum effectiveness. Last updated: October 2025
+This comprehensive library contains 200+ professional-grade prompts for AI models including ChatGPT, Claude, Gemini, and others. Compiled from leading prompt engineering repositories. Last updated: October 2025
 
 ---
 
@@ -523,14 +523,14 @@ I want you to act as a Graphviz DOT generator, an expert to create meaningful di
 
 ## Best Practices
 
-### ✅ Do's
+### Do's
 - **Be Specific**: Provide clear context and requirements
 - **Set Constraints**: Define what you want and don't want
 - **Use Examples**: Show the AI what you're looking for
 - **Iterate**: Refine your prompts based on results
 - **Save Winners**: Keep a library of prompts that work well
 
-### ❌ Don'ts
+### Don'ts
 - **Avoid Ambiguity**: Vague prompts lead to vague results
 - **Don't Overload**: Keep prompts focused on one task
 - **Skip Assumptions**: Explicitly state your requirements
