@@ -2,7 +2,7 @@
 
 # مركز موارد الذكاء الاصطناعي للمحترفين
 
-**المشرف: د. أحمد حلوب**
+**المشرف: د. أحمد هلوب**
 
 [![الموقع](https://img.shields.io/badge/الموقع-ahmedhalloub.com-blue)](https://www.ahmedhalloub.com)
 [![لينكد إن](https://img.shields.io/badge/لينكد_إن-تواصل-0077B5)](https://linkedin.com/in/ahmedhalloub)
@@ -274,7 +274,7 @@
 
 ## التواصل
 
-**د. أحمد حلوب**
+**د. أحمد هلوب**
 
 - البريد الإلكتروني: ahmedhalloub17@gmail.com
 - الهاتف: +213 554-227-641 / +1 323-503-2960
@@ -301,7 +301,7 @@
 
 <div align="center">
 
-**المشرف: د. أحمد حلوب**
+**المشرف: د. أحمد هلوب**
 
 [![نجوم المستودع](https://img.shields.io/github/stars/dataswarmproject/prompts?style=social)](https://github.com/dataswarmproject/prompts)
 
