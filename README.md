@@ -29,11 +29,16 @@ This repository contains battle-tested AI resources compiled from leading open-s
 | Resource | Description |
 |----------|-------------|
 | **Professional Prompts** | 200+ ready-to-use prompts for every profession |
-| **AI Tools** | 300+ tools organized by category |
+| **AI Tools** | 500+ tools organized by category |
 | **MCP Servers** | 100+ integrations to extend AI capabilities |
 | **Agent Frameworks** | 50+ frameworks for building autonomous systems |
-| **API Guide** | Complete integration guide for OpenAI, Claude, Gemini |
-| **Best Practices** | Advanced techniques from real-world implementations |
+| **Learning Paths** | Structured curricula for 6 professional roles |
+| **Use Cases** | Real-world implementations across 10+ industries |
+| **Comparison Guides** | Side-by-side tool and model comparisons |
+| **Security Guide** | Comprehensive security and compliance practices |
+| **Workflows** | Pre-built automation pipelines and code examples |
+| **Benchmarks** | Performance metrics and cost analyses |
+| **15+ Comprehensive Guides** | Everything from basics to production deployment |
 
 ---
 
@@ -41,23 +46,29 @@ This repository contains battle-tested AI resources compiled from leading open-s
 
 ### Find What You Need
 
-**Use AI more effectively**
-→ Start with [AI Best Practices](./AI-BEST-PRACTICES.md)
+**New to AI?**
+→ Start with [Learning Paths](./RESOURCES/LEARNING-PATHS.md) and [FAQ](./FAQ.md)
 
-**Find the right AI tool**
-→ Browse the [AI Tools Directory](./RESOURCES/AI-TOOLS-DIRECTORY.md)
+**Need AI tools?**
+→ Browse [AI Tools Directory](./RESOURCES/AI-TOOLS-DIRECTORY.md) and [Comparison Guides](./RESOURCES/COMPARISON-GUIDES.md)
 
-**Get professional prompts**
-→ Explore the [Prompts Library](./RESOURCES/PROMPTS-LIBRARY.md)
+**Want practical examples?**
+→ Explore [Use Cases Library](./RESOURCES/USE-CASES-LIBRARY.md) and [Workflows Gallery](./RESOURCES/WORKFLOWS-GALLERY.md)
 
-**Integrate AI APIs**
-→ Check the [API Integration Guide](./RESOURCES/API-INTEGRATION-GUIDE.md)
+**Building applications?**
+→ Check [API Integration Guide](./RESOURCES/API-INTEGRATION-GUIDE.md) and [AI Best Practices](./AI-BEST-PRACTICES.md)
 
-**Build AI agents**
-→ See [AI Agent Frameworks](./RESOURCES/AI-AGENTS-FRAMEWORKS.md)
+**Need prompts?**
+→ View [Prompts Library](./RESOURCES/PROMPTS-LIBRARY.md) with 200+ examples
 
-**Extend AI capabilities**
-→ View [MCP Servers Directory](./RESOURCES/MCP-SERVERS-DIRECTORY.md)
+**Security concerns?**
+→ Read [Security Guide](./RESOURCES/SECURITY-GUIDE.md)
+
+**Optimizing costs?**
+→ See [Cost Optimization](./RESOURCES/COST-OPTIMIZATION.md)
+
+**Having issues?**
+→ Check [Troubleshooting Guide](./RESOURCES/TROUBLESHOOTING.md)
 
 ---
 
@@ -66,18 +77,36 @@ This repository contains battle-tested AI resources compiled from leading open-s
 ```
 AI-Resources-Hub/
 ├── README.md
-├── AI-BEST-PRACTICES.md (Start here)
+├── AI-BEST-PRACTICES.md              # Start here
+├── FAQ.md                             # Frequently asked questions
+├── GLOSSARY.md                        # AI terminology reference
+├── CHANGELOG.md                       # Version history
+├── CONTRIBUTING.md                    # Contribution guidelines
 │
 ├── RESOURCES/
-│   ├── PROMPTS-LIBRARY.md (200+ prompts)
-│   ├── AI-TOOLS-DIRECTORY.md (300+ tools)
-│   ├── MCP-SERVERS-DIRECTORY.md (100+ servers)
-│   ├── AI-AGENTS-FRAMEWORKS.md (50+ frameworks)
-│   └── API-INTEGRATION-GUIDE.md (Complete guide)
+│   ├── PROMPTS-LIBRARY.md             # 200+ professional prompts
+│   ├── AI-TOOLS-DIRECTORY.md          # 500+ AI tools
+│   ├── MCP-SERVERS-DIRECTORY.md       # 100+ MCP servers
+│   ├── AI-AGENTS-FRAMEWORKS.md        # 50+ agent frameworks
+│   ├── API-INTEGRATION-GUIDE.md       # Complete API guide
+│   ├── USE-CASES-LIBRARY.md           # Real-world implementations
+│   ├── COMPARISON-GUIDES.md           # Tool comparisons
+│   ├── LEARNING-PATHS.md              # Structured curricula
+│   ├── SECURITY-GUIDE.md              # Security best practices
+│   ├── COST-OPTIMIZATION.md           # Cost reduction strategies
+│   ├── TROUBLESHOOTING.md             # Common issues & solutions
+│   ├── WORKFLOWS-GALLERY.md           # Pre-built workflows
+│   ├── BENCHMARKS.md                  # Performance metrics
+│   ├── DATASETS-DIRECTORY.md          # Training datasets
+│   └── COMMUNITY-RESOURCES.md         # Communities & learning
 │
-└── TOOLS_GUIDES/
-    ├── CLI-TOOLS.md
-    └── WEB-APPS.md
+├── TOOLS_GUIDES/
+│   ├── CLI-TOOLS.md
+│   └── WEB-APPS.md
+│
+└── AR/                                # Arabic translations
+    ├── README.md
+    └── RESOURCES/
 ```
 
 ---
@@ -146,6 +175,111 @@ Comprehensive guide to major AI APIs:
 
 ---
 
+## Comprehensive Guides
+
+### 7. Use Cases Library
+
+Real-world AI implementations across industries:
+- **Healthcare:** Clinical decision support, medical documentation
+- **Legal:** Contract review, legal research
+- **Finance:** Financial analysis, fraud detection
+- **Marketing:** Content generation, SEO optimization
+- **Software Development:** Code review, documentation
+- **10+ Industries:** Practical examples with ROI metrics
+
+### 8. Comparison Guides
+
+Side-by-side comparisons to choose the right tools:
+- **LLMs:** GPT-4 vs Claude vs Gemini
+- **Coding Assistants:** Cursor vs Copilot vs Windsurf
+- **Vector Databases:** Pinecone vs Qdrant vs Weaviate
+- **Embeddings:** OpenAI vs Cohere vs open-source
+- **Complete Analysis:** Speed, quality, cost, features
+
+### 9. Learning Paths
+
+Structured curricula for different roles:
+- **Developer:** API integration to production deployment
+- **Business Professional:** Productivity to transformation
+- **Data Scientist:** Analysis to ML integration
+- **Content Creator:** Tools to workflows
+- **Researcher:** Literature review to publication
+- **Product Manager:** Strategy to execution
+
+### 10. Security Guide
+
+Comprehensive security and compliance:
+- **Prompt Injection Prevention:** Defense strategies
+- **Data Privacy:** GDPR, HIPAA, compliance
+- **API Security:** Key management, rate limiting
+- **Model Security:** Preventing data leakage
+- **100+ Code Examples:** Secure implementations
+
+### 11. Cost Optimization
+
+Strategies to reduce AI costs by 50-70%:
+- **Token Optimization:** Reduce usage without quality loss
+- **Model Selection:** Right model for each task
+- **Caching Strategies:** Save 90% on repeated queries
+- **Batch Processing:** 50% API discounts
+- **ROI Calculation:** Measure business impact
+
+### 12. Troubleshooting Guide
+
+Solutions to common issues:
+- **API Errors:** 401, 429, 400, 500 resolution
+- **Rate Limiting:** Backoff strategies
+- **Context Windows:** Token management
+- **Performance:** Speed optimization
+- **Quality Issues:** Prompt engineering fixes
+
+### 13. Workflows Gallery
+
+Pre-built automation workflows:
+- **Research:** Paper analysis, literature reviews
+- **Content:** Blog generation, social media
+- **Data Analysis:** Automated insights and reports
+- **Development:** Code review, documentation
+- **Multi-Agent:** Collaborative AI systems
+
+### 14. Benchmarks & Performance
+
+Performance metrics and comparisons:
+- **LLM Performance:** MMLU, HumanEval scores
+- **Speed Tests:** Response times, throughput
+- **Quality Evaluation:** Writing, coding, reasoning
+- **Cost per Task:** Actual usage costs
+- **Updated Quarterly:** Latest model comparisons
+
+### 15. Datasets Directory
+
+Curated datasets for training and testing:
+- **NLP:** SQuAD, GLUE, MultiNLI
+- **Code:** The Stack, HumanEval, APPS
+- **Vision:** ImageNet, COCO, CIFAR
+- **Domain-Specific:** Medical, legal, financial
+- **Benchmark Sets:** Evaluation standards
+
+### 16. Community Resources
+
+Connect and learn:
+- **Communities:** Discord, Reddit, forums (100K+ members)
+- **Newsletters:** Daily/weekly AI updates
+- **YouTube:** Top AI channels and tutorials
+- **Podcasts:** Technical deep-dives
+- **Events:** Conferences and meetups
+
+---
+
+## Quick Reference Files
+
+- **[FAQ](./FAQ.md)** - Frequently asked questions
+- **[Glossary](./GLOSSARY.md)** - AI terminology explained
+- **[Changelog](./CHANGELOG.md)** - Version history and updates
+- **[Contributing](./CONTRIBUTING.md)** - How to contribute
+
+---
+
 ## Key Features
 
 ### Comprehensive & Curated
@@ -188,37 +322,60 @@ Resources available for all major AI providers:
 
 | Metric | Count |
 |--------|-------|
-| Total Resources | 500+ |
+| Total Resources | 1000+ |
 | Professional Prompts | 200+ |
-| AI Tools | 300+ |
+| AI Tools | 500+ |
 | MCP Servers | 100+ |
 | Agent Frameworks | 50+ |
-| Code Examples | 100+ |
-| Documentation | 50,000+ words |
-| Source Repositories | 10+ |
+| Comprehensive Guides | 16 |
+| Code Examples | 150+ |
+| Workflows & Templates | 20+ |
+| Documentation | 100,000+ words |
+| Datasets Listed | 50+ |
+| Community Resources | 100+ |
+| Source Repositories | 15+ |
 
 ---
 
 ## Access by Role
 
 ### For Developers
-- [AI Tools Directory](./RESOURCES/AI-TOOLS-DIRECTORY.md) → Code & Development
-- [API Integration Guide](./RESOURCES/API-INTEGRATION-GUIDE.md)
-- [AI Agents Frameworks](./RESOURCES/AI-AGENTS-FRAMEWORKS.md)
-- [MCP Servers](./RESOURCES/MCP-SERVERS-DIRECTORY.md)
+- [Learning Paths](./RESOURCES/LEARNING-PATHS.md) → Developer curriculum
+- [API Integration Guide](./RESOURCES/API-INTEGRATION-GUIDE.md) → Complete API guide
+- [Workflows Gallery](./RESOURCES/WORKFLOWS-GALLERY.md) → Code examples
+- [Security Guide](./RESOURCES/SECURITY-GUIDE.md) → Secure implementations
+- [Troubleshooting](./RESOURCES/TROUBLESHOOTING.md) → Debug common issues
+- [AI Agents Frameworks](./RESOURCES/AI-AGENTS-FRAMEWORKS.md) → Build agents
 
 ### For Content Creators
-- [Prompts Library](./RESOURCES/PROMPTS-LIBRARY.md) → Creative & Writing
-- [AI Tools Directory](./RESOURCES/AI-TOOLS-DIRECTORY.md) → Content Tools
+- [Learning Paths](./RESOURCES/LEARNING-PATHS.md) → Content creator path
+- [Use Cases](./RESOURCES/USE-CASES-LIBRARY.md) → Content workflows
+- [Prompts Library](./RESOURCES/PROMPTS-LIBRARY.md) → Creative prompts
+- [AI Tools Directory](./RESOURCES/AI-TOOLS-DIRECTORY.md) → Content tools
 
 ### For Business Professionals
-- [Prompts Library](./RESOURCES/PROMPTS-LIBRARY.md) → Business & Professional
-- [AI Tools Directory](./RESOURCES/AI-TOOLS-DIRECTORY.md) → Business Intelligence
+- [Learning Paths](./RESOURCES/LEARNING-PATHS.md) → Business professional path
+- [Use Cases Library](./RESOURCES/USE-CASES-LIBRARY.md) → Business applications
+- [Cost Optimization](./RESOURCES/COST-OPTIMIZATION.md) → ROI strategies
+- [Comparison Guides](./RESOURCES/COMPARISON-GUIDES.md) → Tool selection
 
 ### For Researchers
-- [AI Agents Frameworks](./RESOURCES/AI-AGENTS-FRAMEWORKS.md) → Research Agents
-- [API Integration Guide](./RESOURCES/API-INTEGRATION-GUIDE.md)
-- [AI Best Practices](./AI-BEST-PRACTICES.md)
+- [Learning Paths](./RESOURCES/LEARNING-PATHS.md) → Researcher curriculum
+- [Use Cases](./RESOURCES/USE-CASES-LIBRARY.md) → Research workflows
+- [Datasets Directory](./RESOURCES/DATASETS-DIRECTORY.md) → Training data
+- [Benchmarks](./RESOURCES/BENCHMARKS.md) → Performance metrics
+
+### For Product Managers
+- [Learning Paths](./RESOURCES/LEARNING-PATHS.md) → PM curriculum
+- [Use Cases Library](./RESOURCES/USE-CASES-LIBRARY.md) → Product features
+- [Comparison Guides](./RESOURCES/COMPARISON-GUIDES.md) → Vendor selection
+- [Security Guide](./RESOURCES/SECURITY-GUIDE.md) → Compliance
+
+### For Data Scientists
+- [Learning Paths](./RESOURCES/LEARNING-PATHS.md) → DS curriculum
+- [Datasets Directory](./RESOURCES/DATASETS-DIRECTORY.md) → Training datasets
+- [Benchmarks](./RESOURCES/BENCHMARKS.md) → Model evaluation
+- [Workflows Gallery](./RESOURCES/WORKFLOWS-GALLERY.md) → Analysis pipelines
 
 ---
 
@@ -253,20 +410,23 @@ Content compiled and verified from leading open-source repositories:
 
 ## Contributing
 
-Contributions are welcome from the AI community.
+Contributions are welcome! We appreciate your help in making this resource better.
 
-**Contribution areas:**
-- New prompts and use cases
-- AI tools and integrations
-- Best practices and patterns
-- Documentation improvements
-- Code examples and tutorials
+**Ways to contribute:**
+- Suggest new AI tools and resources
+- Report outdated information
+- Submit real-world use cases
+- Improve documentation
+- Add code examples and workflows
+- Share benchmarks and performance data
 
-**How to contribute:**
-1. Fork this repository
-2. Create a feature branch
-3. Add content following existing formats
-4. Submit a pull request
+**See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines**
+
+**Quick start:**
+1. Check [existing issues](https://github.com/dataswarmproject/prompts/issues)
+2. Follow the style guide
+3. Submit via GitHub Issue or Pull Request
+4. Join the community discussions
 
 ---
 
