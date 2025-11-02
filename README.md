@@ -10,7 +10,7 @@
 
 ### The most comprehensive collection of AI resources for professionals
 
-*500+ Tools | 200+ Prompts | 100+ MCP Servers | 50+ Agent Frameworks*
+*500+ Tools | 200+ Prompts | 120+ LLM Libraries | 100+ MCP Servers | 50+ Agent Frameworks*
 
 ---
 
@@ -30,6 +30,7 @@ This repository contains battle-tested AI resources compiled from leading open-s
 |----------|-------------|
 | **Professional Prompts** | 200+ ready-to-use prompts for every profession |
 | **AI Tools** | 500+ tools organized by category |
+| **LLM Development Libraries** | 120+ Python libraries for LLM engineering |
 | **MCP Servers** | 100+ integrations to extend AI capabilities |
 | **Agent Frameworks** | 50+ frameworks for building autonomous systems |
 | **Learning Paths** | Structured curricula for 6 professional roles |
@@ -38,7 +39,7 @@ This repository contains battle-tested AI resources compiled from leading open-s
 | **Security Guide** | Comprehensive security and compliance practices |
 | **Workflows** | Pre-built automation pipelines and code examples |
 | **Benchmarks** | Performance metrics and cost analyses |
-| **15+ Comprehensive Guides** | Everything from basics to production deployment |
+| **16+ Comprehensive Guides** | Everything from basics to production deployment |
 
 ---
 
@@ -51,6 +52,9 @@ This repository contains battle-tested AI resources compiled from leading open-s
 
 **Need AI tools?**
 → Browse [AI Tools Directory](./RESOURCES/AI-TOOLS-DIRECTORY.md) and [Comparison Guides](./RESOURCES/COMPARISON-GUIDES.md)
+
+**Building with Python LLMs?**
+→ Explore [LLM Development Libraries](./RESOURCES/LLM-DEVELOPMENT-LIBRARIES.md) with 120+ libraries
 
 **Want practical examples?**
 → Explore [Use Cases Library](./RESOURCES/USE-CASES-LIBRARY.md) and [Workflows Gallery](./RESOURCES/WORKFLOWS-GALLERY.md)
@@ -86,6 +90,7 @@ AI-Resources-Hub/
 ├── RESOURCES/
 │   ├── PROMPTS-LIBRARY.md             # 200+ professional prompts
 │   ├── AI-TOOLS-DIRECTORY.md          # 500+ AI tools
+│   ├── LLM-DEVELOPMENT-LIBRARIES.md   # 120+ Python LLM libraries
 │   ├── MCP-SERVERS-DIRECTORY.md       # 100+ MCP servers
 │   ├── AI-AGENTS-FRAMEWORKS.md        # 50+ agent frameworks
 │   ├── API-INTEGRATION-GUIDE.md       # Complete API guide
@@ -142,6 +147,19 @@ Essential reading for effective AI implementation:
 - **Video Generation:** Sora, Runway, Synthesia
 - **Audio & Voice:** ElevenLabs, Murf, AIVA
 - Plus 10 additional categories
+
+### 3.1. LLM Development Libraries
+
+120+ Python libraries for LLM engineering across the complete development lifecycle:
+- **Training & Fine-Tuning:** unsloth, PEFT, TRL, Transformers, Axolotl
+- **Application Frameworks:** LangChain, Llama Index, HayStack, Prompt flow
+- **RAG Libraries:** FastGraph RAG, Chonkie, RAGChecker, BeyondLLM
+- **Inference & Serving:** vLLM, LightLLM, TensorRT-LLM, LitServe
+- **Agents:** CrewAI, LangGraph, AutoGen, Smolagents, Pydantic AI
+- **Evaluation:** Ragas, DeepEval, Lighteval, Trulens
+- **Monitoring:** MLflow, Opik, LangSmith, Phoenix
+- **Safety & Security:** Guardrails, LLM Guard, NeMo Guardrails
+- Plus 7 additional categories
 
 ### 4. MCP Servers Directory
 
@@ -322,18 +340,19 @@ Resources available for all major AI providers:
 
 | Metric | Count |
 |--------|-------|
-| Total Resources | 1000+ |
+| Total Resources | 1100+ |
 | Professional Prompts | 200+ |
 | AI Tools | 500+ |
+| LLM Development Libraries | 120+ |
 | MCP Servers | 100+ |
 | Agent Frameworks | 50+ |
 | Comprehensive Guides | 16 |
 | Code Examples | 150+ |
 | Workflows & Templates | 20+ |
-| Documentation | 100,000+ words |
+| Documentation | 110,000+ words |
 | Datasets Listed | 50+ |
 | Community Resources | 100+ |
-| Source Repositories | 15+ |
+| Source Repositories | 16+ |
 
 ---
 
@@ -341,6 +360,7 @@ Resources available for all major AI providers:
 
 ### For Developers
 - [Learning Paths](./RESOURCES/LEARNING-PATHS.md) → Developer curriculum
+- [LLM Development Libraries](./RESOURCES/LLM-DEVELOPMENT-LIBRARIES.md) → 120+ Python libraries
 - [API Integration Guide](./RESOURCES/API-INTEGRATION-GUIDE.md) → Complete API guide
 - [Workflows Gallery](./RESOURCES/WORKFLOWS-GALLERY.md) → Code examples
 - [Security Guide](./RESOURCES/SECURITY-GUIDE.md) → Secure implementations
@@ -400,6 +420,9 @@ Content compiled and verified from leading open-source repositories:
 - e2b-dev/awesome-ai-agents (8k★)
 - kyrolabs/awesome-agents (3k★)
 - slavakurilyak/awesome-ai-agents
+
+**LLM Development Libraries:**
+- KalyanKS-NLP/llm-engineer-toolkit (8k★)
 
 **APIs:**
 - OpenAI Cookbook (Official)
@@ -461,7 +484,7 @@ Compiled from leading open-source repositories with contributions from the globa
 
 [![Star this repo](https://img.shields.io/github/stars/dataswarmproject/prompts?style=social)](https://github.com/dataswarmproject/prompts)
 
-**Last Updated:** October 30, 2025
-**Version:** 2.0 - Complete Reorganization
+**Last Updated:** November 2, 2025
+**Version:** 2.0.1 - LLM Development Libraries Added
 
 </div>

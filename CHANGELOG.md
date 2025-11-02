@@ -6,6 +6,28 @@ All notable changes to the AI Resources Hub will be documented in this file.
 
 ---
 
+## [2.0.1] - 2025-11-02
+
+### Content Update - LLM Development Libraries
+
+### Added
+- **LLM Development Libraries Directory:**
+  - 120+ Python libraries for LLM engineering
+  - Categories: Training & Fine-Tuning, Application Development, RAG, Inference, Serving
+  - Additional categories: Data Extraction, Data Generation, Agents, Evaluation
+  - Specialized sections: Monitoring, Prompts, Structured Outputs, Safety & Security
+  - Complete with GitHub links and descriptions
+  - Source: KalyanKS-NLP/llm-engineer-toolkit (8k★)
+
+### Changed
+- Updated README.md with LLM Development Libraries section
+- Enhanced repository statistics (1100+ total resources)
+- Added library directory to Quick Start guide
+- Updated Developer access section with new resource
+- Expanded Data Sources section
+
+---
+
 ## [2.0.0] - 2025-10-30
 
 ### Major Update - Comprehensive Resource Expansion
@@ -159,4 +181,4 @@ Older versions and their changes are preserved in Git history. Use `git log` to 
 - Check changelog regularly
 - Subscribe to updates via GitHub
 
-**Last Updated:** 2025-10-30
+**Last Updated:** 2025-11-02
