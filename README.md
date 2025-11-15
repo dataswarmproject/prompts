@@ -32,13 +32,14 @@ This repository contains battle-tested AI resources compiled from leading open-s
 | **AI Tools** | 500+ tools organized by category |
 | **MCP Servers** | 100+ integrations to extend AI capabilities |
 | **Agent Frameworks** | 50+ frameworks for building autonomous systems |
+| **LLM Apps Catalog** | 82+ production-ready applications with full code |
 | **Learning Paths** | Structured curricula for 6 professional roles |
 | **Use Cases** | Real-world implementations across 10+ industries |
 | **Comparison Guides** | Side-by-side tool and model comparisons |
 | **Security Guide** | Comprehensive security and compliance practices |
 | **Workflows** | Pre-built automation pipelines and code examples |
 | **Benchmarks** | Performance metrics and cost analyses |
-| **15+ Comprehensive Guides** | Everything from basics to production deployment |
+| **16+ Comprehensive Guides** | Everything from basics to production deployment |
 
 ---
 
@@ -54,6 +55,9 @@ This repository contains battle-tested AI resources compiled from leading open-s
 
 **Want practical examples?**
 → Explore [Use Cases Library](./RESOURCES/USE-CASES-LIBRARY.md) and [Workflows Gallery](./RESOURCES/WORKFLOWS-GALLERY.md)
+
+**Need ready-to-use apps?**
+→ Browse [LLM Apps Catalog](./RESOURCES/LLM-APPS-CATALOG.md) - 82+ production apps with code
 
 **Building applications?**
 → Check [API Integration Guide](./RESOURCES/API-INTEGRATION-GUIDE.md) and [AI Best Practices](./AI-BEST-PRACTICES.md)
@@ -88,6 +92,7 @@ AI-Resources-Hub/
 │   ├── AI-TOOLS-DIRECTORY.md          # 500+ AI tools
 │   ├── MCP-SERVERS-DIRECTORY.md       # 100+ MCP servers
 │   ├── AI-AGENTS-FRAMEWORKS.md        # 50+ agent frameworks
+│   ├── LLM-APPS-CATALOG.md            # 82+ production apps
 │   ├── API-INTEGRATION-GUIDE.md       # Complete API guide
 │   ├── USE-CASES-LIBRARY.md           # Real-world implementations
 │   ├── COMPARISON-GUIDES.md           # Tool comparisons
@@ -269,6 +274,19 @@ Connect and learn:
 - **Podcasts:** Technical deep-dives
 - **Events:** Conferences and meetups
 
+### 17. LLM Apps Catalog
+
+Production-ready applications with code:
+- **Starter Agents:** 12 beginner-friendly applications
+- **Advanced Agents:** 14 production-grade agents
+- **Multi-Agent Teams:** 12 collaborative agent systems
+- **Voice Agents:** 3 voice-enabled applications
+- **MCP Agents:** 4 Model Context Protocol agents
+- **RAG Tutorials:** 18 RAG implementations
+- **Chat Apps:** 6 data source integrations
+- **Memory Apps:** 6 context-aware applications
+- **82+ Total Apps:** All with complete source code
+
 ---
 
 ## Quick Reference Files
@@ -327,13 +345,14 @@ Resources available for all major AI providers:
 | AI Tools | 500+ |
 | MCP Servers | 100+ |
 | Agent Frameworks | 50+ |
-| Comprehensive Guides | 16 |
+| Production LLM Apps | 82+ |
+| Comprehensive Guides | 17 |
 | Code Examples | 150+ |
 | Workflows & Templates | 20+ |
-| Documentation | 100,000+ words |
+| Documentation | 120,000+ words |
 | Datasets Listed | 50+ |
 | Community Resources | 100+ |
-| Source Repositories | 15+ |
+| Source Repositories | 16+ |
 
 ---
 
